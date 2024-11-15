@@ -111,6 +111,7 @@ nav ul li a:hover:after{
     font-size: 60px;
     font-weight: 600;
     color: #fff;
+    margin-bottom: 20px;
 }
 
 #about-text{
@@ -432,6 +433,9 @@ nav .fa-solid{
         font-size: 40px;
     }
     
+    .sub-titel .tab-links{
+        margin-top: 20px;
+    }
     
     .contact-left, .contact-right{
         flex-basis: 100%;
