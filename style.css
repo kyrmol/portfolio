@@ -24,7 +24,20 @@ body{
 
 .container{
     padding: 10px 10%;
+    
 }
+
+#header {
+    background-image: 
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 45%, #080808 100%), 
+        url('img-back2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+
 
 nav{
     display: flex;
