@@ -70,7 +70,8 @@ nav ul li a::after{
     width: 0;
     height: 3px;
     /* background: #045D55; */
-    background: #ffa500;
+    background:#045D55;
+     #ffa500;
     position:absolute;
     left: 0;
     bottom: -6px;
