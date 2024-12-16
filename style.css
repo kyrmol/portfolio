@@ -71,7 +71,7 @@ nav ul li a::after{
     height: 3px;
     /* background: #045D55; */
     background:#045D55;
-     #ffa500;
+     /* #ffa500; */
     position:absolute;
     left: 0;
     bottom: -6px;
@@ -465,4 +465,9 @@ nav .fa-solid{
     color: green;
     margin-top: -40px;
     display: block;
+ }
+
+ #techstack{
+    color:#c4b5b571;
+    font-size: 17px;
  }
